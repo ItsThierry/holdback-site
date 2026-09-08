@@ -33,17 +33,13 @@ Holdback does not operate a server for this app. We do not receive your settleme
 
 ## Network
 
-Grep of app source (`src/**/*.ts`, `src/**/*.tsx`) at tree `356674c`: no `fetch(`, no `XMLHttpRequest`, no `WebSocket(`, no `axios`.
+The app makes no network calls. When Google Play purchases are added, this policy will name that one call.
 
-There is **no network call** in the shipping app.
-
-Reminders are scheduled on the device (`src/notifications/schedule.ts`). They do not use a push token.
+Reminders are scheduled on the device. They do not use a push token.
 
 Share, backup, year-end pack, and “Send the error log” open the Android share sheet. The file goes where **you** pick (Drive, Messages, Files). It does not go to LPJ Incorporated unless you send it to us.
 
 Fonts ship inside the APK. They are not downloaded.
-
-Google Play Billing is not wired. Restore purchases on the paywall is an in-app toast. When billing ships (task T8), this policy will name that one Google Play purchase/restore call and nothing else.
 
 ## Camera, photos, and files
 

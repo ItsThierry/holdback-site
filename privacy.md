@@ -46,7 +46,7 @@ Holdback is a money and rate-con tool for owner-operators. You type or import se
 
 ## Error log
 
-If something breaks, Holdback writes a line to a log on the phone: which screen, and the error text. Dollar amounts written with a $ sign are blanked out. The log stays on the phone; you can send it through the share sheet, or clear it.
+If something breaks, Holdback writes a line to a log on the phone: which screen, and the error text. Most dollar amounts are blanked out, but not every way of writing one, so look at the log before you send it. The log stays on the phone; you can send it through the share sheet, or clear it.
 
 ## Deleting your data
 

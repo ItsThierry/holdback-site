@@ -28,13 +28,13 @@ Holdback is a money and rate-con tool for owner-operators. You type or import se
 - **Rate-con check:** when you open or share a rate confirmation with Holdback, the app copies it into app storage and reads it on your phone to find the pay and signs of editing. The file is not uploaded anywhere.
 - **Pictures of rate cons:** a picture is read with Google ML Kit text recognition, which runs on your phone. ML Kit sends Google anonymous usage and performance information so Google can measure and improve it: the phone's make, model and Android version, the app's name and version, how long the reading took, the picture's format and size, error codes, and a random number for this installation (not meant to identify you or your phone). It is sent over an encrypted connection and Google says it does not pass it to third parties. It does **not** include your picture or the text in it. Google's description: https://developers.google.com/ml-kit/android-data-disclosure
 - **Your records:** settlements, deductions, miles, work costs, life bills, tax holdback and savings percents, reminders, rate-con checks, and attached photos or PDFs stay in app storage on the phone.
-- **Photos:** when you attach a receipt or settlement picture, the app opens your phone's photo picker and gets only the picture you pick; it does not ask for access to all your photos. If you choose to take a picture, the app asks for the camera then.
+- **Photos:** when you attach a receipt or settlement picture, the app opens your phone's photo picker and gets only the picture you pick; it does not ask for access to all your photos, and it does not use the camera.
 - **Reminders** are scheduled on the device. They do not use a push token.
 - **Fonts** ship inside the app. They are not downloaded.
 
 ## What leaves your phone only when you choose
 
-- **Files you share or export:** a result card, a year-end pack (a ZIP of spreadsheets with your figures), a spreadsheet, a backup file or the error log opens the Android share sheet. The file goes where **you** pick (Drive, Messages, Files, a person). It does not go to LPJ Incorporated unless you send it to us. A backup is locked with the password you choose.
+- **Files you share or export:** a result card, a year-end pack (a ZIP of spreadsheets with your figures), a spreadsheet, a backup file or the error log opens the Android share sheet. The file goes where **you** pick (Drive, Messages, Files, a person). It does not go to LPJ Incorporated unless you send it to us. A backup can be locked with a password (Settings → Backup → Lock with a password); without one, anyone who has the file can open it. A backup holds your records, not the photos or PDFs you attached.
 - **Links you tap:** this policy and the Google Play subscriptions page open in your browser.
 
 ## What we do not do
@@ -46,7 +46,7 @@ Holdback is a money and rate-con tool for owner-operators. You type or import se
 
 ## Error log
 
-If something breaks, Holdback writes one local line: which screen, and what broke. Never a dollar amount, never a name. You can send that file through the share sheet, or clear it.
+If something breaks, Holdback writes a line to a log on the phone: which screen, and the error text. Dollar amounts written with a $ sign are blanked out. The log stays on the phone; you can send it through the share sheet, or clear it.
 
 ## Deleting your data
 

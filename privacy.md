@@ -1,33 +1,33 @@
 ---
-title: Holdback — Privacy Policy
+title: Fairhold — Privacy Policy
 permalink: /privacy
 ---
 
-Last updated: 28 October 2026.
+Last updated: 29 October 2026 (the app is now named Fairhold).
 
-# Privacy policy — Holdback
+# Privacy policy — Fairhold
 
 Effective 28 October 2026.
 
 Developer: LPJ Incorporated, Crown Point, Indiana, United States.
-App: Holdback (`com.lpj.holdback`) on Google Play.
+App: Fairhold (`com.lpj.holdback`) on Google Play.
 Contact: boban.kostadinoski@gmail.com
 
 ## The short version
 
-Holdback works on your phone. The rate cons you check, your settlements, loads, costs and receipts stay on your phone. There is no Holdback account, no sign-in and no bank login. We do not run a server for this app and we do not receive your files or your numbers.
+Fairhold works on your phone. The rate cons you check, your settlements, loads, costs and receipts stay on your phone. There is no Fairhold account, no sign-in and no bank login. We do not run a server for this app and we do not receive your files or your numbers.
 
 The one thing the app sends on its own: Google's text-recognition tool (ML Kit), which reads pictures of rate cons on your phone, sends Google anonymous usage and performance information. It never sends your picture or the text in it. Details below.
 
-## What Holdback is
+## What Fairhold is
 
-Holdback is a money and rate-con tool for owner-operators. You type or import settlements, bills and costs. You can check a rate confirmation (a PDF or a picture) on the phone. Your records are kept in the app's storage on this device.
+Fairhold is a money and rate-con tool for owner-operators. You type or import settlements, bills and costs. You can check a rate confirmation (a PDF or a picture) on the phone. Your records are kept in the app's storage on this device.
 
 ## What the app does with your files
 
-- **Rate-con check:** when you open or share a rate confirmation with Holdback, the app copies it into app storage and reads it on your phone to find the pay and signs of editing. The file is not uploaded anywhere.
+- **Rate-con check:** when you open or share a rate confirmation with Fairhold, the app copies it into app storage and reads it on your phone to find the pay and signs of editing. The file is not uploaded anywhere.
 - **Pictures of rate cons:** a picture is read with Google ML Kit text recognition, which runs on your phone. ML Kit sends Google anonymous usage and performance information so Google can measure and improve it: the phone's make, model and Android version, the app's name and version, how long the reading took, the picture's format and size, error codes, and a random number for this installation (not meant to identify you or your phone). It is sent over an encrypted connection and Google says it does not pass it to third parties. It does **not** include your picture or the text in it. Google's description: https://developers.google.com/ml-kit/android-data-disclosure
-- **Your records:** settlements, deductions, miles, work costs, life bills, tax holdback and savings percents, reminders, rate-con checks, and attached photos or PDFs stay in app storage on the phone.
+- **Your records:** settlements, deductions, miles, work costs, life bills, the percent set aside for taxes and the savings percent, reminders, rate-con checks, and attached photos or PDFs stay in app storage on the phone.
 - **Photos:** when you attach a receipt or settlement picture, the app opens your phone's photo picker and gets only the picture you pick; it does not ask for access to all your photos, and it does not use the camera.
 - **Reminders** are scheduled on the device. They do not use a push token.
 - **Fonts** ship inside the app. They are not downloaded.
@@ -46,19 +46,19 @@ Holdback is a money and rate-con tool for owner-operators. You type or import se
 
 ## Error log
 
-If something breaks, Holdback writes a line to a log on the phone: which screen, and the error text. Most dollar amounts are blanked out, but not every way of writing one, so look at the log before you send it. The log stays on the phone; you can send it through the share sheet, or clear it.
+If something breaks, Fairhold writes a line to a log on the phone: which screen, and the error text. Most dollar amounts are blanked out, but not every way of writing one, so look at the log before you send it. The log stays on the phone; you can send it through the share sheet, or clear it.
 
 ## Deleting your data
 
-Uninstalling Holdback deletes everything it stored on your phone. Files you shared or exported stay where you sent them. We hold no copy to delete.
+Uninstalling Fairhold deletes everything it stored on your phone. Files you shared or exported stay where you sent them. We hold no copy to delete.
 
 ## Children
 
-Holdback is built for working drivers and owner-operators. It is not directed at children.
+Fairhold is built for working drivers and owner-operators. It is not directed at children.
 
 ## Changes
 
-If this policy changes, the new version is posted on this page with a new date. If Holdback Pro is sold through Google Play, this page will first be updated to name what the purchase service receives.
+If this policy changes, the new version is posted on this page with a new date. If Fairhold Pro is sold through Google Play, this page will first be updated to name what the purchase service receives.
 
 ## Contact
 

@@ -1,1 +1,1 @@
-[Holdback — Privacy Policy](privacy)
+[Fairhold — Privacy Policy](privacy)

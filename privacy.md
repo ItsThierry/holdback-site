@@ -11,7 +11,7 @@ Effective November 2026.
 
 Developer: Boban Kostadinoski, Crown Point, Indiana, United States.
 App: Fairhold on Google Play and the App Store.
-Contact: boban.kostadinoski@gmail.com
+Contact: hello@itsthierry.com
 
 ## The short version
 
@@ -68,5 +68,5 @@ If this policy changes, the new version is posted on this page with a new date.
 
 ## Contact
 
-Questions: boban.kostadinoski@gmail.com
+Questions: hello@itsthierry.com
 Boban Kostadinoski, Crown Point, Indiana, United States.

@@ -9,7 +9,7 @@ Last updated: November 2026 (now covers the iPhone app too).
 
 Effective November 2026.
 
-Developer: Boban Kostadinoski, Crown Point, Indiana, United States.
+Developer: Boban Kostadinoski, Indiana, United States.
 App: Fairhold on Google Play and the App Store.
 Contact: hello@itsthierry.com
 
@@ -69,4 +69,4 @@ If this policy changes, the new version is posted on this page with a new date.
 ## Contact
 
 Questions: hello@itsthierry.com
-Boban Kostadinoski, Crown Point, Indiana, United States.
+Boban Kostadinoski, Indiana, United States.
